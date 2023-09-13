@@ -3,7 +3,7 @@ import Protected from "./Protected";
 import "./App.css";
 import Login from "./pages/Login.jsx";
 import Signup from "./pages/Signup.jsx";
-import {  useSelector } from 'react-redux';
+import {  useSelector } from 'react-redux'; 
 import Home from "./pages/Home";
 
 import './App.css';

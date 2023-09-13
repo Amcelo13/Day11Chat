@@ -5,6 +5,6 @@ export const getTime = (times) => {
   let minutes = curr.getMinutes();
 
   let timeString = hours + ":" + (minutes < 10 ? "0" : "") + minutes + " " + ampm;
-  console.log(timeString);
+
   return timeString;
 };
